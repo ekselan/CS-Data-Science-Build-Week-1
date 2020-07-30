@@ -1,7 +1,7 @@
 # K-Nearest Neighbors with base Python
 Functional and Object-Oriented Implementations for Classification
 
-*Link to blog post on medium: (coming soon)*
+*Link to blog post on medium: (https://medium.com/@aaron.watkinsjr/k-nearest-neighbors-with-base-python-72a2a7b5f3cb?sk=fea45f84b5d1a67748fbc8c9feb9fe42)*
 
 ---
 
